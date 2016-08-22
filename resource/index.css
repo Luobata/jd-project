@@ -8,79 +8,79 @@
     overflow: hidden;
     background: url('../images/background.png') no-repeat;
     background-size: 100% auto;
-    background-position: 9px 26px;
+    background-position: 0.579710145rem 1.674718196rem;
 }
 .index .first .logo {
-    width: 117.333333px;
-    height: 27px;
+    width: 7.557702609rem;
+    height: 1.739130435rem;
     background: url('../images/logo.png') no-repeat;
-    background-size: 117.333333px 27px;
+    background-size: 7.557702609rem 1.739130435rem;
     float: left;
-    margin: 18px 0 0 0;
+    margin: 1.159420290rem 0 0 0;
 }
 .index .first .index-center {
-    width: 250px;
-    margin: 54px auto 0;
+    width: 16.103059581rem;
+    margin: 3.478260870rem auto 0;
 }
 .first .index-center .center-logo {
-    width: 231.333333px;
-    height: 126.666667px;
+    width: 14.900697778rem;
+    height: 8.158883543rem;
     background: url('../images/title.png') no-repeat;
-    background-size: 231.333333px 126.6666667px;
+    background-size: 14.900697778rem 8.158883523rem;
 }
 .first .index-center .center-book {
-    width: 250px;
-    height: 179px;
+    width: 16.103059581rem;
+    height: 11.529790660rem;
     background: url('../images/book.png') no-repeat;
-    background-size: 250px 179px;
+    background-size: 16.103059581rem 11.529790660rem;
     overflow: hidden;
-    font-size: 12px;
+    font-size: 0.772946860rem;
 }
 .first .index-center .center-book .center-book-text {
-    margin: 7px 0 0 0;
+    margin: 0.450885668rem 0 0 0;
     color: #272727;
     text-align: center;
 }
 .first .index-center .center-book .center-book-text.first {
-    margin: 40px 0 0 0;
+    margin: 2.576489533rem 0 0 0;
 }
 .index .first .center-join {
-    width: 127.333333px;
-    height: 35px;
+    width: 8.201824992rem;
+    height: 2.254428341rem;
     background: url('../images/join.png') no-repeat;
-    background-size: 127.333333px 35px;
-    margin: 16px auto 0;
+    background-size: 8.201824992rem 2.254428341rem;
+    margin: 1.030595813rem auto 0;
 }
 .index .first .right-logo {
-    width: 103.333333px;
-    height: 88.333333px;
+    width: 6.655931272rem;
+    height: 5.689747697rem;
     background: url('../images/top-right.png') no-repeat;
-    background-size: 103.333333px 88.333333px;
+    background-size: 6.655931272rem 5.689747697rem;
     float: right;
-    margin: 13px 10px 0 0;
+    margin: 0.837359098rem 0.644122383rem 0 0;
 }
 .index .join {
     width: 100%;
-    padding: 20px 43px 26px;
+    padding: 1.288244767rem 2.769726248rem 1.674718196rem;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
 }
 .index .join .join-text {
     color: #fff;
-    padding: 0 0 0 15px;
-    line-height: 20px;
-    font-size: 12px;
+    padding: 0 0 0 0.966183575rem;
+    line-height: 1.288244767rem;
+    font-size: 0.772946860rem;
 }
 .index .join .join-context {
     width: 100%;
-    height: 228.333333px;
-    margin: 23px 0 0 0;
-    border-radius: 6px;
+    height: 14.707461063rem;
+    margin: 1.481481481rem 0 0 0;
+    border-radius: 0.386473430rem;
     background-color: #fff;
     overflow: hidden;
 }
 .index .join .join-context .context-submit {
-    padding: 40px 26px 0;
+    padding: 2.576489533rem 1.674718196rem 0;
 }
 .join-context .context-submit .submit-school {
 }
@@ -88,113 +88,113 @@
 .join-context .context-submit .recent-book .text,
 .join-context .context-submit .wechat .text {
     color: #004e66;
-    font-size: 19.5px;
+    font-size: 1.256038647rem;
 }
 .join-context .context-submit .submit-school select {
-    width: 46px;
-    vertical-align: 3px;
-    margin: 0 0 0 2px;
+    width: 2.962962963rem;
+    vertical-align: 0.193236715rem;
+    margin: 0 0 0 0.128824477rem;
 }
 .join-context .context-submit .auto-input {
     width: 100%;
     display: inline-block;
-    margin: 0 0 0 -185px;
-    padding: 0 0 0 174px;
+    margin: 0 0 0 -11.916264090rem;
+    padding: 0 0 0 11.207729469rem;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
 }
 .join-context .context-submit .auto {
     width: 100%;
-    vertical-align: 3px;
+    vertical-align: 0.193236715rem;
 }
 .join-context .context-submit .wechat .text-min {
     color: #6f7a7d;
-    font-size: 16px;
+    font-size: 1.030595813rem;
 }
 .join-context .context-submit .wechat .auto-input {
-    margin: 0 0 0 -179px;
-    padding: 0 0 0 166px;
+    margin: 0 0 0 -11.529790660rem;
+    padding: 0 0 0 10.692431562rem;
 }
 .join-context .context-submit .recent-book {
-    margin: 24px 0 0 0;
+    margin: 1.545893720rem 0 0 0;
 }
 .join-context .context-submit .wechat {
-    margin: 24px 0 0 0;
+    margin: 1.545893720rem 0 0 0;
 }
 .join-context .context-submit .submit-button {
-    width: 114.333333px;
-    height: 46.333333px;
-    margin: 21px auto 0;
+    width: 7.364465894rem;
+    height: 2.984433688rem;
+    margin: 1.352657005rem auto 0;
     background: url('../images/submit-info-button.png') no-repeat;
-    background-size: 114.333333px 46.333333px;
+    background-size: 7.364465894rem 2.984433688rem;
     text-align: center;
-    line-height: 42px;
-    font-size: 20px;
+    line-height: 2.705314010rem;
+    font-size: 1.288244767rem;
     font-weight: bold;
     color: #202020;
 }
 .index .join .join-context .context-start {
-    padding: 40px 26px 0;
+    padding: 2.576489533rem 1.674718196rem 0;
     display: none;
 }
 .index .join .join-context .context-start .start-icon {
-    width: 117.6666667px;
-    height: 117.6666667px;
+    width: 7.579173378rem;
+    height: 7.579173378rem;
     background: url('../images/circle.png') no-repeat;
     background-size: 100% 100%;
     margin: 0 auto;
-    padding: 22px 0 0 0;
+    padding: 1.417069243rem 0 0 0;
     text-align: center;
     color: #fff;
-    font-size: 34px;
+    font-size: 2.190016103rem;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
 }
 .index .join .join-context .context-start .start-time {
     color: #d7151a;
-    font-size: 32px;
-    margin: 14px auto 0;
+    font-size: 2.061191626rem;
+    margin: 0.901771337rem auto 0;
     text-align: center;
 }
 .index .join .join-context .context-over {
-    height: 168px;
-    margin: 30px 54px;
+    height: 10.821256039rem;
+    margin: 1.932367150rem 3.478260870rem;
     background-color: #ff9b37;
-    border-radius: 5px;
+    border-radius: 0.322061192rem;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
-    box-shadow: 1px 3px 10px 2px #ccc;
-    -webkit-box-shadow: 1px 3px 10px 2px #ccc;
+    box-shadow: 1px 0.193236715rem 0.644122383rem 0.128824477rem #ccc;
+    -webkit-box-shadow: 1px 0.193236715rem 0.644122383rem 0.128824477rem #ccc;
     overflow: hidden;
     display: none;
 }
 .index .join .join-context .context-over .over-title {
-    margin: 21px 14px 0;
+    margin: 1.352657005rem 0.901771337rem 0;
     color: #fff;
-    font-size: 17.333333px;
+    font-size: 1.116478776rem;
     text-align: center;
 }
 .index .join .join-context .context-over .over-gift {
     text-align: center;
-    margin: -5px 0 0 0;
+    margin: -0.322061192rem 0 0 0;
 }
 .index .join .join-context .context-over .over-gift .gift-img {
-    width: 178px;
-    height: 108.333333px;
+    width: 11.465378422rem;
+    height: 6.977992464rem;
 }
 
 .person-time {
     width: 100%;
     background-color: #1fbbbc;
     overflow: hidden;
-    padding: 0 0 27px 0;
+    padding: 0 0 1.739130435rem 0;
 }
 .person-time .time-logo {
-    width: 327px;
-    height: 149.333333px;
+    width: 21.062801932rem;
+    height: 9.618894235rem;
     background: url('../images/time.png') no-repeat;
-    background-size: 327px 149.333333px;
-    margin: 16px auto 0;
+    background-size: 21.062801932rem 9.618894235rem;
+    margin: 1.030595813rem auto 0;
     position: relative;
 }
 .person-time .time-logo .time-hour-1,
@@ -203,166 +203,166 @@
 .person-time .time-logo .time-min-2,
 .person-time .time-logo .time-sec-1,
 .person-time .time-logo .time-sec-2 {
-    font-size: 38px;
+    font-size: 2.447665056rem;
     color: #a9a9a9;
     position: absolute;
-    top: 66px;
+    top: 4.251207729rem;
 }
 .person-time .time-logo .time-hour-1 {
-    left: 34px;
+    left: 2.190016103rem;
 }
 .person-time .time-logo .time-hour-2 {
-    left: 75px;
+    left: 4.830917874rem;
 }
 .person-time .time-logo .time-min-1 {
-    left: 128px;
+    left: 8.244766506rem;
 }
 .person-time .time-logo .time-min-2 {
-    left: 169px;
+    left: 10.885668277rem;
 }
 .person-time .time-logo .time-sec-1 {
-    left: 223px;
+    left: 14.363929147rem;
 }
 .person-time .time-logo .time-sec-2 {
-    left: 264px;
+    left: 17.004830918rem;
 }
 .person-time .time-rule {
-    width: 327px;
-    margin: 16px auto 0;
+    width: 21.062801932rem;
+    margin: 1.030595813rem auto 0;
 }
 .person-time .time-rule .rule-title {
-    font-size: 20px;
+    font-size: 1.288244767rem;
     text-align: center;
-    margin: 0 0 8px 0;
+    margin: 0 0 0.515297907rem 0;
 }
 .person-time .time-rule .rule-title,
 .person-time .time-rule .rule-con {
     color: #fff;
 }
 .person-time .time-rule .rule-con .rule-text {
-    line-height: 20px;
+    line-height: 1.288244767rem;
 }
 .person-time .time-rule .rule-con .rule-text.offset {
-    margin: 27px 0 0 0;
+    margin: 1.739130435rem 0 0 0;
 }
 .person-time .time-rule .invite {
-    width: 198px;
-    height: 54.333333px;
-    line-height: 54px;
+    width: 12.753623188rem;
+    height: 3.499731594rem;
+    line-height: 3.478260870rem;
     background: url('../images/submit-button.png') no-repeat;
-    background-size: 198px 54.333333px;
-    margin: 27px auto 0;
+    background-size: 12.753623188rem 3.499731594rem;
+    margin: 1.739130435rem auto 0;
     text-align: center;
-    font-size: 24px;
+    font-size: 1.545893720rem;
     color: #fff;
 }
 
 .school-rank {
     width: 100%;
     background-color: #a6add4;
-    padding: 0 0 29px 0;
+    padding: 0 0 1.867954911rem 0;
     overflow: hidden;
 }
 .school-rank .rank-header {
     width: 100%;
-    height: 123px;
-    line-height: 123px;
+    height: 7.922705314rem;
+    line-height: 7.922705314rem;
     background: url('../images/second-header.png') no-repeat;
-    background-size: 100% 123px;
+    background-size: 100% 7.922705314rem;
     text-align: center;
 }
 .school-rank .rank-header .rank-header-text {
-    width: 265.6666667px;
-    height: 71.333333px;
+    width: 17.112184651rem;
+    height: 4.594739646rem;
     display: inline-block;
     background: url('../images/rank.png') no-repeat;
-    background-size: 265.6666667px 71.333333px;
+    background-size: 17.112184651rem 4.594739646rem;
     vertical-align: middle;
 }
 .school-rank .rank-report {
     width: 100%;
-    margin: 19px 0 0 0;
+    margin: 1.223832528rem 0 0 0;
 }
 .school-rank .rank-report .report-title,
 .school-rank .rank-report .report-rank {
     color: #004e66;
-    font-size: 20px;
+    font-size: 1.288244767rem;
     text-align: center;
 }
 .school-rank .rank-report .report-title {
 }
 .school-rank .rank-report .report-rank {
-    margin: 15px 0 0 0;
+    margin: 0.966183575rem 0 0 0;
 }
 .school-rank .rank-graph {
-    margin: 14px 0 0 0;
-    padding: 0 0 0 13px;
+    margin: 0.901771337rem 0 0 0;
+    padding: 0 0 0 0.837359098rem;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
 }
 .school-rank .rank-graph .rank-school-names {
-    width: 90px;
+    width: 5.797101449rem;
     display: inline-block;
 }
 .school-rank .rank-graph .rank-school-names .rank-school-name {
-    margin: 18.6666667px 0 0 0;
+    margin: 1.202361784rem 0 0 0;
 }
 .school-rank .rank-graph .rank-school-names .rank-school-name .ranks {
-    width: 16px;
-    height: 14.666667px;
+    width: 1.030595813rem;
+    height: 0.944712850rem;
     display: inline-block;
     vertical-align: middle;
     text-align: center;
     color: #fff;
-    font-size: 14px;
+    font-size: 0.901771337rem;
 }
 .school-rank .rank-graph .rank-school-names .rank-school-name .rank-fir {
     background: url('../images/first.png') no-repeat;
-    background-size: 16px 14.6666667px;
+    background-size: 1.030595813rem 0.944712831rem;
 }
 .school-rank .rank-graph .rank-school-names .rank-school-name .rank-sec {
     background: url('../images/second.png') no-repeat;
-    background-size: 16px 14.6666667px;
+    background-size: 1.030595813rem 0.944712831rem;
 }
 .school-rank .rank-graph .rank-school-names .rank-school-name .rank-thr {
     background: url('../images/third.png') no-repeat;
-    background-size: 16px 14.6666667px;
+    background-size: 1.030595813rem 0.944712831rem;
 }
 .school-rank .rank-graph .rank-school-names .rank-school-name .rank-school {
     color: #fff;
-    font-size: 14px;
-    margin: 0 0 0 4px;
+    font-size: 0.901771337rem;
+    margin: 0 0 0 0.257648953rem;
     vertical-align: middle;
 }
 .school-rank .rank-graph .rank-school-mins {
     height: 100%;
     display: inline-block;
-    border-left: 2px solid #fff;
+    border-left: 0.128824477rem solid #fff;
     vertical-align: top;
 }
 .school-rank .rank-graph .rank-school-mins .rank-school-min {
-    margin: 9px 0 0 0;
+    margin: 0.579710145rem 0 0 0;
 }
 .school-rank .rank-graph .rank-school-mins .rank-school-min:nth-child(1) {
-    margin: 13px 0 0 0;
+    margin: 0.837359098rem 0 0 0;
 }
 .school-rank .rank-graph .rank-school-mins .rank-school-min:nth-child(10) {
-    margin: 9px 0 12px 0;
+    margin: 0.579710145rem 0 0.772946860rem 0;
 }
 .school-rank .rank-graph .rank-school-mins .rank-school-min .rank-school-progress {
-    height: 19px;
-    border: 2px solid #fff;
-    border-width: 2px 2px 2px 0;
+    height: 1.223832528rem;
+    border: 0.128824477rem solid #fff;
+    border-width: 0.128824477rem 0.128824477rem 0.128824477rem 0;
     display: inline-block;
 }
 .school-rank .rank-graph .rank-school-mins .rank-school-min .rank-school-progress-1 {
-    width: 200px;
+    width: 12.882447665rem;
     background-color: #d7151a;
 }
 .school-rank .rank-graph .rank-school-mins .rank-school-min .rank-school-minutes {
     color: #fff;
     display: inline-block;
-    vertical-align: 8px;
+    vertical-align: 0.515297907rem;
 }
 
 .school-travel {
@@ -372,147 +372,147 @@
 }
 .school-travel .travel-header {
     width: 100%;
-    height: 123px;
-    line-height: 123px;
+    height: 7.922705314rem;
+    line-height: 7.922705314rem;
     background: url('../images/third-header.png') no-repeat;
-    background-size: 100% 123px;
+    background-size: 100% 7.922705314rem;
     text-align: center;
 }
 .school-travel .travel-header .travel-header-text {
-    width: 265.6666667px;
-    height: 71.333333px;
+    width: 17.112184651rem;
+    height: 4.594739646rem;
     display: inline-block;
     background: url('../images/school.png') no-repeat;
-    background-size: 265.6666667px 71.333333px;
+    background-size: 17.112184651rem 4.594739646rem;
     vertical-align: middle;
 }
 .school-travel .high-up {
     width: 100%;
-    padding: 21px 13px 0;
+    padding: 1.352657005rem 0.837359098rem 0;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
 }
 .school-travel .high-up .high-up-title {
     color: #fff;
-    font-size: 20px;
+    font-size: 1.288244767rem;
     text-align: center;
 }
 .school-travel .high-up .high-up-context {
-    margin: 21px 0 0 0;
+    margin: 1.352657005rem 0 0 0;
 }
 .school-travel .high-up .high-up-context .high-up-img {
     display: inline-block;
 }
 .school-travel .high-up .high-up-context .high-up-img .high-up-pic {
-    width: 144px;
-    height: 174px;
+    width: 9.275362319rem;
+    height: 11.207729469rem;
 }
 .school-travel .high-up .high-up-context .high-up-ind {
-    width: 215px;
+    width: 13.848631240rem;
     width: 100%;
     display: inline-block;
-    margin: 0 0 0 17px;
+    margin: 0 0 0 1.095008052rem;
     vertical-align: top;
-    padding-left: 155px;
-    margin-left: -147px;
+    padding-left: 9.983896940rem;
+    margin-left: -9.468599034rem;
     box-sizing: border-box;
     -webkit-box-sizing: border-box;
 }
 .school-travel .high-up .high-up-context .high-up-ind .high-up-p {
     color: #fff;
-    font-size: 12px;
+    font-size: 0.772946860rem;
 }
 .school-travel .high-up .high-up-context .high-up-ind .high-up-host {
-    margin: 7px 0 0 0;
+    margin: 0.450885668rem 0 0 0;
 }
 .school-travel .high-up .high-up-context .high-up-ind .high-up-place {
-    margin: 27px 0 0 0;
+    margin: 1.739130435rem 0 0 0;
 }
 .school-travel .high-up .high-up-context .high-up-ind .high-up-topic {
-    margin: 27px 0 0 0;
-    line-height: 18px;
+    margin: 1.739130435rem 0 0 0;
+    line-height: 1.159420290rem;
 }
 .school-travel .high-up .high-up-context .high-up-ind .high-up-time {
-    margin: 27px 0 0 0;
+    margin: 1.739130435rem 0 0 0;
 }
 .school-travel .high-up .high-up-join {
-    width: 280px;
-    margin: 22px auto 0;
+    width: 18.035426731rem;
+    margin: 1.417069243rem auto 0;
     color: #fff;
-    line-height: 18px;
+    line-height: 1.159420290rem;
 }
 .school-travel .high-up .high-up-join .join-way {
-    line-height: 18px;
+    line-height: 1.159420290rem;
 }
 .school-travel .book-recommand {
     width: 100%;
-    padding: 43px 19px 0;
+    padding: 2.769726248rem 1.223832528rem 0;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
     text-align: center;
 }
 .school-travel .book-recommand .book-recommand-header {
-    width: 215px;
-    height: 69.6666667px;
+    width: 13.848631240rem;
+    height: 4.487385939rem;
     background: url('../images/recommand.png') no-repeat;
     background-size: 100% 100%;
     margin: 0 auto;
 }
 .school-travel .book-recommand .book-recommand-books {
     display: inline-block;
-    margin: 32px 0 0 0;
+    margin: 2.061191626rem 0 0 0;
 }
 .school-travel .book-recommand-books .books-pic {
     display: inline-block;
 }
 .school-travel .book-recommand-books .books-pic .books-images {
-    width: 78px;
-    height: 129.333333px;
+    width: 5.024154589rem;
+    height: 8.330649469rem;
 }
 .school-travel .book-recommand-books .books-text {
-    width: 240px;
-    margin: 12px 0 0 32px;
+    width: 15.458937198rem;
+    margin: 0.772946860rem 0 0 2.061191626rem;
     color: #fff;
     display: inline-block;
     vertical-align: top;
     text-align: left;
 }
 .school-travel .book-recommand-books .books-text .books-title {
-    font-size: 20px;
+    font-size: 1.288244767rem;
 }
 .school-travel .book-recommand-books .books-text .books-title .title-name {
-    margin: 0 10px 0 0;
+    margin: 0 0.644122383rem 0 0;
 }
 .school-travel .book-recommand-books .books-text .books-title .author {
     display: inline-block;
 }
 .school-travel .book-recommand-books .books-text .books-tip {
-    margin: 3px 0 0 0;
-    font-size: 12px;
+    margin: 0.193236715rem 0 0 0;
+    font-size: 0.772946860rem;
 }
 .school-travel .book-recommand-books .books-text .books-rank {
-    margin: 18px 0 0 0;
-    font-size: 12px;
-    line-height: 16px;
+    margin: 1.159420290rem 0 0 0;
+    font-size: 0.772946860rem;
+    line-height: 1.030595813rem;
 }
 .school-travel .book-recommand-books .books-text .books-rank-exc {
-    font-size: 12px;
-    line-height: 16px;
+    font-size: 0.772946860rem;
+    line-height: 1.030595813rem;
 }
 
 .school-travel .foot {
     width: 100%;
-    margin: 65px 0 0 0;
+    margin: 4.186795491rem 0 0 0;
 }
 .school-travel .foot .foot-copyright {
-    font-size: 12px;
+    font-size: 0.772946860rem;
     color: #fff;
     text-align: center;
 }
 .school-travel .foot .foot-back {
     width: 100%;
-    height: 150.6666667px;
-    margin: 14px 0 0 0;
+    height: 9.704777243rem;
+    margin: 0.901771337rem 0 0 0;
     background: url('../images/footer.png') no-repeat;
     background-size: 100% 100%;
 }

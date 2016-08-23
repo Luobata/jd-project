@@ -32,14 +32,17 @@
     width: 250px;
     height: 179px;
     background: url('../images/book.png') no-repeat;
-    background-size: 250px 179px;
+    background-size: 100% 100%;
     overflow: hidden;
-    font-size: 12px;
+    /*width: 187.5pt;
+    height: 134.25pt;*/
 }
 .first .index-center .center-book .center-book-text {
     margin: 7px 0 0 0;
     color: #272727;
     text-align: center;
+    font-size: 15.525px;
+    font-size: 12px;
 }
 .first .index-center .center-book .center-book-text.first {
     margin: 40px 0 0 0;
@@ -99,7 +102,8 @@
     width: 100%;
     display: inline-block;
     margin: 0 0 0 -185px;
-    padding: 0 0 0 174px;
+    padding: 1px 0 1px 174px;
+    float: right;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
 }
@@ -408,13 +412,13 @@
     height: 174px;
 }
 .school-travel .high-up .high-up-context .high-up-ind {
-    width: 215px;
-    width: 100%;
+    width: 220px;
+    float: right;
     display: inline-block;
-    margin: 0 0 0 17px;
+    /*margin: 0 0 0 17px;*/
     vertical-align: top;
-    padding-left: 155px;
-    margin-left: -147px;
+    /*padding-left: 155px;
+    margin-left: -147px;*/
     box-sizing: border-box;
     -webkit-box-sizing: border-box;
 }
